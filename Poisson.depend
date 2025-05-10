@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732326752 source:/home/ads/AdlanesPlace/Poisson/Lapin.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
